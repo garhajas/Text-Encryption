@@ -12,7 +12,7 @@ Some of the details:
 
 To run the program complie the encrypt.c file and run it following command:
   
-    * ./encrypt message.txt 3
+     ./encrypt message.txt 3
        (where 3 is the shift amount, and encrypt is the name of the executable complied file)
   
 Results:
